@@ -1,4 +1,6 @@
-class Solution {
+package house_robber;
+
+public class HouseRobber1{
     public int rob(int[] nums) {
         int n = nums.length;
         if (n==1)
